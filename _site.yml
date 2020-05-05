@@ -9,7 +9,7 @@ navbar:
     - text: "Previous Research"
       href: pre_res.html
     - text: "Portfolio"
-      href: pre_res.html
+      href: portfolio.html
       
 output:
   html_document:
