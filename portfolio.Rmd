@@ -1,0 +1,33 @@
+---
+title: "Portfolio"
+output: html_document
+---
+<br>
+
+**Posters**
+
+<img src="Poster_v3.pdf.png" width="100%">
+
+<br>
+
+<img src="Poster_v4.png" width="100%">
+
+<br>
+
+**Maps**
+<img src="assignment_5.png" width="100%">
+
+<br>
+
+<img src="assignment_6 (3).png" width="100%">
+
+<br>
+
+<img src="Assignment_6 (4).png" width="100%">
+
+<br>
+
+<img src="assignment_7 (1).png" width="100%">
+
+<br>
+

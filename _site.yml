@@ -1,0 +1,16 @@
+name: "Brian McElroy Froeb"
+output_dir: "."
+navbar:
+  type: inverse
+  title: "Brian Froeb"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Previous Research"
+      href: pre_res.html
+    - text: "Portfolio"
+      href: pre_res.html
+      
+output:
+  html_document:
+    theme: flatly

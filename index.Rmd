@@ -1,0 +1,40 @@
+---
+title: ""
+output: html_document
+---
+<img style="float: left; margin: 0px 15px 15px 0px;" src="me.jpg" width="300px">
+<br>
+<br>
+
+# Education
+
+MA in Urban and Enviornmental Policy and Planning, 2020
+
+Tufts University
+
+BS in Psychology, 2016
+
+Appalachian State University
+
+<br>
+
+# About Me
+
+Recent graduate of Tufts University's UEP program focusing on the use of Geographic Information Science and statistical modeling to conduct research and to create useful tool-kits to help policymakers and stakeholders make more informed and environmentally conscious decisions.
+
+<br>
+
+<img style="float: right; margin: 0px 15px 15px 0px;" src="Rent_Final.gif" width="300px"> <img style="float: right; margin: 0px 15px 15px 0px;" src="evictions.gif" width="300px">
+
+<br>
+<br>
+
+
+# Intrest Areas
+
+* Climate Change
+* Renewable Energy
+* Housing Mobility
+* Sustainable Development
+* Data Science
+* Voter Supression
