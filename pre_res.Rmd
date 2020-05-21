@@ -12,6 +12,7 @@ css: pre_res_style.css
 * A novel panel data set on household mobility was created from tax return data and used in logistic regression models
 * Additionally tested for any spatial clustering in household mobility through a GIS analysis.
 * Conducted as a part of a Master's Thesis that was completed in May 2020
+* An interactive app that explores the data and results can be found [here](https://froebbm.shinyapps.io/shiny_thesis/)
 
 # [Renewable Energy](https://tufts.app.box.com/s/ylfgfc6kh01r5h2wq5on5t80nrdkd7n6)
 
